@@ -1,0 +1,13 @@
+2022-11-04 03:18:57.849 [info] Extension host with pid 4149 started
+2022-11-04 03:18:57.849 [info] Skipping acquiring lock for /home/yokai/Desktop/Tarea_3/tarea2sd/api/User/workspaceStorage/ce561e0f94f26548414747bf7ace36d0.
+2022-11-04 03:18:58.260 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2022-11-04 03:18:58.260 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2022-11-04 03:18:58.260 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2022-11-04 03:18:58.758 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2022-11-04 03:18:58.875 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2022-11-04 03:18:59.178 [info] Eager extensions activated
+2022-11-04 03:18:59.209 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2022-11-04 03:18:59.210 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+2022-11-04 03:18:59.210 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2022-11-04 03:19:16.019 [info] Extension host terminating: received terminate message from renderer
+2022-11-04 03:19:16.025 [info] Extension host with pid 4149 exiting with code 0
